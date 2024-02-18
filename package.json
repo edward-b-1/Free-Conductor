@@ -1,0 +1,14 @@
+{
+  "name": "free-conductor",
+  "version": "1.0.0",
+  "description": "Free Conductor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  }
+}
